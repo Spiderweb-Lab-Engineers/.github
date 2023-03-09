@@ -1,5 +1,5 @@
 # Spiderweb Labs
-<p> align="center"
+<p align="center">
   <img src="/logo.png" alt="Spiderweb Labs Logo" width="500"/>
 <p>
   
