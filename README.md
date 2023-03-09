@@ -1,7 +1,8 @@
 # Spiderweb Labs
-
-<img src="/logo.png" alt="Spiderweb Labs Logo" width="500"/>
-
+<p> align="center"
+  <img src="/logo.png" alt="Spiderweb Labs Logo" width="500"/>
+<p>
+  
 Welcome to Spiderweb Labs, a technology company that specializes in the development of drone systems, robotic systems, artificial intelligence, and mobile applications. Our mission is to build innovative products that push the boundaries of technology and make a positive impact on the world.
 
 ## About Us
